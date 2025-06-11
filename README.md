@@ -53,8 +53,12 @@
 <!-- CONNECT -->
 ### 📫 How to reach me:
 <p align="center">
-  <a href="mailto:mdmahmudulhasan1511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- LinkedIn future link placeholder -->
+  <a href="mailto:mdmahmudulhasan1511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/md-mahmudul-hasan-mabud-28745833b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
