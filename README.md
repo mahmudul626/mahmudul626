@@ -19,8 +19,8 @@
 
 <!-- STATS & CONTRIBUTIONS -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul626&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul626&theme=tokyonight" height="200"/>
 </p>
 
 <p align="center">
