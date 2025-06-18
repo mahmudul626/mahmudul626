@@ -19,8 +19,7 @@
 <!-- STATS & CONTRIBUTIONS -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mahmudul626&theme=tokyonight
-" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mahmudul626&theme=tokyonight" />
 </p>
 
 <p align="center">
