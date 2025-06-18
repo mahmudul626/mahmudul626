@@ -1,53 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">Electronics Engineering Student | Tech Enthusiast | Future Robotics Engineer</h3>
+# 🚀 Arduino Learning from Zero with C
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+Electronics+%26+Coding;Learning+every+single+day!;Let's+Innovate+together" alt="Typing SVG" />
-</p>
+![Arduino Animated Gif](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
----
-
-### 🚀 About Me
-
-- 🎓 Studying **Electronics Engineering** at **Dhaka Polytechnic Institute**  
-- 🤖 Passionate about **Robotics, Embedded Systems, and AI**
-- 🔭 I’m currently working on: `Smart Environment Detector with AI logic`
-- 🌱 I’m learning: `Advanced C`, `DSA`, `Microcontrollers`, `Python`, `Linux`, `ROS`
-- 🏆 Goal: To become one of the **best Robotics Engineers** in the world!
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/network/members)
 
 ---
 
-### 🛠️ Languages and Tools
+### 📌 About this repository
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,bash,linux,vscode,git,github,html,css" />
-</p>
-
----
-
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mahmudul626&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul626&layout=compact&theme=tokyonight" />
-</p>
+This repository is made for beginners who want to learn **Arduino programming from zero using C language**.  
+Here, I share all my projects, codes, and learning experience step-by-step, so anyone can start with no prior knowledge and easily understand how Arduino works with C.
 
 ---
 
-### 📫 Connect with Me
+### 🚀 What you will get here
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmudul626" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahmudul626@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mahmudul626.github.io/InnoTech-Fest/" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- Simple and clear **C programs** for Arduino  
+- Step-by-step **hands-on projects** with code and circuit diagrams  
+- Detailed explanation on how each project works  
+- Beginner-friendly, no prior experience needed  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmudul626&label=Profile+Views&color=0e75b6&style=flat" alt="mahmudul626" />
-</p>
+### 🎯 Why learn Arduino with C?
+
+Arduino programming is mainly done in C/C++, and learning C well will help you build strong basics in embedded systems and robotics.  
+This repo focuses on **writing clean, simple C code** and understanding how Arduino hardware interacts with software.
+
+---
+
+### 💡 How to use this repo?
+
+Start from the first project folder and follow the instructions.  
+Try to write and upload the code yourself to your Arduino board and see how it works!
+
+---
+
+### 🤝 Contribution
+
+Anyone interested can use this repo freely, share it, and contribute by adding new projects or improving existing ones.  
+Let’s grow our Arduino skills together!
+
+---
+
+### 👨‍💻 About Me
+
+**Mahmudul Hasan**  
+Electronics Engineering Student | Passionate about Robotics & Embedded Systems  
+
+---
+
+Happy coding! 🚀⚡
