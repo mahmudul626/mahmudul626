@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Electronics Engineering Student | 🤖 Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub!;WICE+Bronze+Medalist+🏅;Electronics+%2B+AI+%2B+Code+%3D+💥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub!;WICE+Bronze+Medalist+🏅;Dream+%2B+Design+%2B+Deliver+%3D+💥" alt="Typing SVG" />
 </p>
 
 ---
