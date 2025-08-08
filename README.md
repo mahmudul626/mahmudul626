@@ -67,7 +67,7 @@
 ### 🌐 Online Judge Profile:
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/mdmahmudulhasan3" target="_blank">
+  <a href="https://www.hackerrank.com/mahmudul626" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
