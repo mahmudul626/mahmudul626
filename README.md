@@ -56,8 +56,11 @@
   <a href="mailto:mdmahmudulhasan1511@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/md-mahmudul-hasan-mabud-28745833b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmudul626" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+   <a href="https://mahmudul626.github.io/portfolio/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/7867/7867835.png">
   </a>
 </p>
 
