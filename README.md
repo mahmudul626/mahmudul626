@@ -1,14 +1,20 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Md. Mahmudul Hasan Mabud</h1>
-<h3 align="center">🎓 Electronics Engineering Student | 🤖 Robotics Enthusiast</h3>
+<div align="center">
+
+<!-- HEADER WITH ANIMATED GRADIENT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Mahmudul%20Hasan%20Mabud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Engineering%20Student%20%7C%20Robotics%20Enthusiast&descSize=16&descAlignY=51"/>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;WICE+Bronze+Medalist+🏅;Dream+%2B+Design+%2B+Deliver+%3D+💥;Coding+%2B+Robotics+%2B+AI+%3D+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;WICE+Bronze+Medalist+🏅;Dream+%2B+Design+%2B+Deliver+%3D+💥;Coding+%2B+Robotics+%2B+AI+%3D+Future" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250px" />
-</p>
+
+
+
+
+
 
 ---
 
@@ -55,7 +61,7 @@
 ### 🚀 Featured Project:
 - 💧 **Smart Atmospheric Water Generator**  
   🏅 *WICE Bangladesh Bronze Medalist*  
-  📡 *AI & Environment-Sensing based sustainable water solution*  
+  📡 *AI + sensor-driven embedded system for sustainable water generation*  
   🔗 [Project Details & Repo](https://github.com/mahmudul626)
 
 ---
