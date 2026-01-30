@@ -11,9 +11,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.tenor.com/s1Y9XfdN08EAAAAj/bot.gif" width="300px" />
-</p>
+
 
 
 
